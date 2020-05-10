@@ -1,0 +1,9 @@
+{
+  "name": "js100",
+  "version": "1.0.0",
+  "description": "100 javascript tasks",
+  "main": "index.js",
+  "repository": "https://github.com/turska123/js100.git",
+  "author": "Mika Turkia",
+  "license": "MIT"
+}
